@@ -29,12 +29,12 @@ ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002335002662').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
-auth_channel = environ.get('AUTH_CHANNEL')
+auth_channel = environ.get('AUTH_CHANNEL ','-1002335002662')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = [int(auth_channel) for auth_channel in environ.get('AUTH_CHANNEL ','-1002335002662').split() if id_pattern.search(auth_channel)]
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
-FORCE_SUB1 = environ.get('FORCE_SUB1', 'https://t.me/+53lB8qzQaGFlNDll')
-FORCE_SUB2 = environ.get('FORCE_SUB2', 'https://t.me/wudixh12')
+FORCE_SUB1 = environ.get('FORCE_SUB1', 'https://t.me/+nHE3X69W4i03NDJl')
+FORCE_SUB2 = environ.get('FORCE_SUB2', 'https://t.me/+nHE3X69W4i03NDJl')
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://batman13:batman13@batman.sawvl.mongodb.net/?retryWrites=true&w=majority&appName=batman")
