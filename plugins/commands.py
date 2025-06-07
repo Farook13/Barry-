@@ -66,8 +66,6 @@ async def start(client, message: Message):
         loading_msg = await message.reply("Loading...\n[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%")
         progress_bar = [
             "[🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜] 10%",
-            "[🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜] 50%",
-            "[🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜] 90%",
             "[🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩] 100%"
         ]
         for frame in progress_bar:
