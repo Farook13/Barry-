@@ -7,7 +7,7 @@ class script(object):
 
 🚀 𝖠𝗇𝖽 𝗂’𝗅𝗅 𝗍𝖺𝗄𝖾 𝗂𝗍 𝖿𝗋𝗈𝗆 𝗍𝗁𝖾𝗋𝖾!
 
-<blockquote>©️ Maintained by <a href="https://t.me/im_goutham_josh">@im_goutham_josh</a></blockquote>"""
+<blockquote>©️ Maintained by <a href="https://t.me/Farook13">@Farook13</a></blockquote>"""
 
     HELP_TXT = """
 🙋🏻‍♂️ Hᴇʟʟᴏ {}! 🤓
@@ -29,18 +29,18 @@ class script(object):
     ABOUT_TXT = """<b>
 <blockquote>🤖 Nᴀᴍᴇ: ᴋᴜᴛᴛᴜ ʙᴏᴛ™</blockquote>
 
-👨‍💻 Cʀᴇᴀᴛᴏʀ: <a href="https://t.me/im_goutham_josh">Goutham SER</a>  
+👨‍💻 Cʀᴇᴀᴛᴏʀ: <a href="https://t.me/Farook13">Farook</a>  
 💬 Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3  
 🗄️ Dᴀᴛᴀʙᴀsᴇ: Mᴏɴɢᴏ DB  
 🌐 Sᴇʀᴠᴇʀ: KᴏYᴇʙ
 </b>"""
     SOURCE_TXT = """<b>📢 NOTE:</b>
-<blockquote>ᴋᴜᴛᴛᴜ ʙᴏᴛ™ is an open source project.</blockquote>
+<blockquote> ʙatman is an open source project.</blockquote>
 
-🔗 <b>Source Code:</b> <a href="https://github.com/GouthamSER">Click Here 😂</a>
+🔗 <b>Source Code:</b> <a href="https://github.com/oomb">Click Here 😂</a>
 
 <b>👨‍💻 DEVS:</b>  
-<blockquote><a href="https://t.me/wudixh12">Gᴏᴜᴛʜᴀᴍ Josh ✅</a></blockquote>
+<blockquote><a href="https://t.me/Farook13">Farook bro ✅</a></blockquote>
 """
 
     MANUALFILTER_TXT = """<b>❓ Help: Filters</b>
@@ -143,12 +143,12 @@ This module only works for my admins.
 
 📦 Fɪʟᴇ Sɪᴢᴇ: 💾 <code>{file_size}</code>
 
-🔗 [⚡ Jᴏɪɴ Eʟᴅᴏʀᴀᴅᴏ ⚡](https://t.me/+53lB8qzQaGFlNDll)</b>"""
+🔗 [⚡ Jᴏɪɴ Cineflix ⚡](https://t.me/+fsvpVEQB8pRkMzk1)</b>"""
     
     RESTART_GC_TXT = """
 <b>🔄 𝖡𝗈𝗍 𝖱𝖾𝗌𝗍𝖺𝗋𝗍𝖾𝖽!</b>
-Kuttu Bot  
-<a href="https://t.me/im_goutham_josh">@im_goutham_josh</a>
+Batman 
+<a href="https://t.me/Farook13">@Farook13</a>
 
 📅 𝖣𝖺𝗍𝖾 : <code>{}</code>  
 ⏰ 𝖳𝗂𝗆𝖾 : <code>{}</code>  
@@ -203,7 +203,7 @@ Take a peek at the instructions below and let’s try again! 👇🏼
     OLD_MES = "Eᴅᴀᴀ Mᴏɴᴇʜ, 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐮𝐬𝐢𝐧𝐠 𝐨𝐧𝐞 𝐨𝐟 𝐦𝐲 𝐨𝐥𝐝 𝐦𝐞𝐬𝐬𝐚𝐠𝐞𝐬 🤔. 𝐏𝐥𝐞𝐚𝐬𝐞 𝐬𝐞𝐧𝐝 𝐭𝐡𝐞 𝐫𝐞𝐪𝐮𝐞𝐬𝐭 𝐚𝐠𝐚𝐢𝐧."
 
     MOV_NT_FND = """<b>Eᴅᴀᴀ Mᴏɴᴇʜ, Tʜɪs Mᴏᴠɪᴇ ɪs Nᴏᴛ Yᴇᴛ Rᴇʟᴇᴀsᴇᴅ ᴏʀ Aᴅᴅᴇᴅ Tᴏ ᴅᴀᴛᴀʙᴀsᴇ.</b>
-<blockquote>Report To ADMIN - <a href="https://t.me/im_goutham_josh">@im_goutham_josh</a></blockquote>
+<blockquote>Report To ADMIN - <a href="https://t.me/Farook13">@Farook13</a></blockquote>
 """
 
     RESTART_TXT = """<b><u>𝖡𝗈𝗍 𝖱𝖾𝗌𝗍𝖺𝗋𝗍𝖾𝖽 ✅</u></b>"""
