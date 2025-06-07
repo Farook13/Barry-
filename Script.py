@@ -27,7 +27,7 @@ class script(object):
 ⚠️ Pʟᴇᴀsᴇ ᴅᴏɴ’ᴛ sᴘᴀᴍ ᴛʜᴇ ʙᴏᴛ. 🙂
 """
     ABOUT_TXT = """<b>
-<blockquote>🤖 Nᴀᴍᴇ: ᴋᴜᴛᴛᴜ ʙᴏᴛ™</blockquote>
+<blockquote>🤖 Nᴀᴍᴇ:Batman🦇</blockquote>
 
 👨‍💻 Cʀᴇᴀᴛᴏʀ: <a href="https://t.me/Farook13">Farook</a>  
 💬 Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3  
