@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/97418751/212598655-d7637a29-cba8-4ed6-92a4-6534d394b0f7.jpg" alt="ᴋᴜᴛᴛᴜ ʙᴏᴛ™ Logo">
 </p>
 <h1 align="center">
-  <b>ᴋᴜᴛᴛᴜ ʙᴏᴛ™</b>
+  <b>ʙᴏᴛ™</b>
 </h1>
 
 
